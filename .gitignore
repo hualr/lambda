@@ -1,0 +1,9 @@
+# Project exclude paths
+/01-demo/target/
+/02-comparator/target/
+/03-FunctionInterface/target/
+/04-methodRef/target/
+/05-stream/target/
+/06-interfaceS/target/
+/07-optional/target/
+/08-future/target/
